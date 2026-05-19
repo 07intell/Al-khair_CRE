@@ -1,0 +1,604 @@
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.application
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.ResolveComReference.cache
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\bin\Debug\office.dll
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\bin\Debug\office.xml
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\bin\Debug\Interop.ADOX.dll
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbprojResolveAssemblyReference.cache
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+G:\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+G:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Interop.ADOX.dll
+G:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.ResolveComReference.cache
+G:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+G:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+G:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+G:\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+G:\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.application
+G:\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+G:\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+G:\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+G:\Alkhair CRE\WindowsApplication1\bin\Debug\MySql.Data.dll
+G:\Alkhair CRE\WindowsApplication1\bin\Debug\Interop.ADOX.dll
+G:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbprojResolveAssemblyReference.cache
+G:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+G:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Find.resources
+G:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+G:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+G:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+G:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+G:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+G:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+G:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+G:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+G:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+I:\Software Projects\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+I:\Software Projects\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+I:\Software Projects\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.application
+I:\Software Projects\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+I:\Software Projects\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+I:\Software Projects\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+I:\Software Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+I:\Software Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+I:\Software Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+I:\Software Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+I:\Software Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+I:\Software Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+I:\Software Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+I:\Software Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+I:\Software Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+I:\Software Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+I:\Software Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+I:\Software Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+I:\Software Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+I:\Software Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbprojResolveAssemblyReference.cache
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.application
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbprojResolveAssemblyReference.cache
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Config.resources
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.DwmTest.Program.resources
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+H:\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+H:\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+H:\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.application
+H:\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+H:\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+H:\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+H:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+H:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Config.resources
+H:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+H:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+H:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+H:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form4.resources
+H:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+H:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+H:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+H:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+H:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+H:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+H:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+H:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+H:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+H:\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbprojResolveAssemblyReference.cache
+B:\My Data\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+B:\My Data\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+B:\My Data\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+B:\My Data\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+B:\My Data\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+B:\My Data\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Config.resources
+B:\My Data\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+B:\My Data\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+B:\My Data\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+B:\My Data\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form4.resources
+B:\My Data\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+B:\My Data\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+B:\My Data\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+B:\My Data\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+B:\My Data\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+B:\My Data\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.application
+B:\My Data\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+B:\My Data\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+B:\My Data\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+B:\My Data\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+B:\My Data\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+B:\My Data\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbprojResolveAssemblyReference.cache
+H:\My Data\Alkhair CRE\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+H:\My Data\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+H:\My Data\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+H:\My Data\Alkhair CRE\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\bin\Debug\Alkhair CRE.application
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Config.resources
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form4.resources
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+B:\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+B:\Aman Flash\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+B:\Aman Flash\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+B:\Aman Flash\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+B:\Aman Flash\Alkhair\Alkhair CRE 16-10-15\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.application
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Config.resources
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form4.resources
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbprojResolveAssemblyReference.cache
+C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Loans_report.resources
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.application
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbprojResolveAssemblyReference.cache
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Config.resources
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form4.resources
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Loans_report.resources
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+G:\Aman Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.application
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbprojResolveAssemblyReference.cache
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Config.resources
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form4.resources
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Loans_report.resources
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+G:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.application
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbprojResolveAssemblyReference.cache
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Config.resources
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form4.resources
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Loans_report.resources
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.dll
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.pdb
+B:\Aman Flash\Alkhair\Alkhair CRE\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.xml
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.application
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.dll
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.pdb
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.xml
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbprojResolveAssemblyReference.cache
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Config.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form4.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Loans_report.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.application
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.dll
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.pdb
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.xml
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbprojResolveAssemblyReference.cache
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Config.resources
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Find.resources
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form4.resources
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Loans_report.resources
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.application
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.dll
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.pdb
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.xml
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbprojResolveAssemblyReference.cache
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Config.resources
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Find.resources
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form4.resources
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Loans_report.resources
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+B:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.collectionsheet.resources
+G:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.collectionsheet.resources
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.application
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.dll
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.pdb
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.xml
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbprojResolveAssemblyReference.cache
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.collectionsheet.resources
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Config.resources
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Find.resources
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form4.resources
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Loans_report.resources
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+H:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.ResolveComReference.cache
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.ResolveComReference.cache
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.application
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.dll
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.pdb
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.xml
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.collectionsheet.resources
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Config.resources
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Find.resources
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form4.resources
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Loans_report.resources
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+D:\Aman_Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbprojResolveAssemblyReference.cache
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.application
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.dll
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.pdb
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.xml
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.ResolveComReference.cache
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.collectionsheet.resources
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Config.resources
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Find.resources
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form4.resources
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Loans_report.resources
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbprojResolveAssemblyReference.cache
+H:\My Flash\Alkhair\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Print_Preview.resources
+E:\Aman\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+E:\Aman\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+E:\Aman\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.application
+E:\Aman\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+E:\Aman\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+E:\Aman\Alkhair CRE old design\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+E:\Aman\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.dll
+E:\Aman\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.pdb
+E:\Aman\Alkhair CRE old design\WindowsApplication1\bin\Debug\AndroidLib.xml
+E:\Aman\Alkhair CRE old design\WindowsApplication1\bin\Debug\Interop.WMICNTLLib.dll
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Interop.WMICNTLLib.dll
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.ResolveComReference.cache
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.collectionsheet.resources
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Config.resources
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Find.resources
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form4.resources
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Loans_report.resources
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Print_Preview.resources
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+E:\Aman\Alkhair CRE old design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbprojResolveAssemblyReference.cache
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.application
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\CoolSoft.NumericUpDownEx.VB.dll
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\MySql.Data.dll
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\CoolSoft.NumericUpDownEx.VB.pdb
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Interop.WMICNTLLib.dll
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Interop.WMICNTLLib.dll
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.ResolveComReference.cache
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Accountdetails.resources
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.collectionsheet.resources
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Config.resources
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Find.resources
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Loans_report.resources
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Print_Preview.resources
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+E:\Aman\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+H:\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+H:\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+H:\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.application
+H:\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+H:\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+H:\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+H:\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\CoolSoft.NumericUpDownEx.VB.dll
+H:\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\MySql.Data.dll
+H:\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\CoolSoft.NumericUpDownEx.VB.pdb
+H:\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Interop.WMICNTLLib.dll
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Interop.WMICNTLLib.dll
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.ResolveComReference.cache
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Accountdetails.resources
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.collectionsheet.resources
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Config.resources
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Find.resources
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Loans_report.resources
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Print_Preview.resources
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+H:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+E:\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+E:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Interop.WMICNTLLib.dll
+E:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.ResolveComReference.cache
+E:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+E:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+E:\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.application
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Interop.WMICNTLLib.dll
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Interop.WMICNTLLib.dll
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.ResolveComReference.cache
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Accountdetails.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.collectionsheet.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Config.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Find.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Loans_report.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Print_Preview.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbprojResolveAssemblyReference.cache
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.config
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.exe.manifest
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.application
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.exe
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.pdb
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Alkhair CRE.xml
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\Interop.WMICNTLLib.dll
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Interop.WMICNTLLib.dll
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.ResolveComReference.cache
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Accountdetails.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Changerecieptdate.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.collectionsheet.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Config.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Find.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form1.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form2.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form3.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Form6.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Loans_report.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.login.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Resources.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.Print_Preview.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair_CRE.viewrectbydate.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbproj.GenerateResource.Cache
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe.manifest
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.application
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.exe
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.xml
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.pdb
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\CoolSoft.NumericUpDownEx.VB.dll
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Debug\CoolSoft.NumericUpDownEx.VB.pdb
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\x86\Debug\Alkhair CRE.vbprojResolveAssemblyReference.cache

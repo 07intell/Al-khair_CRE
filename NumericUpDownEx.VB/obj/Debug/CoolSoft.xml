@@ -1,0 +1,74 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CoolSoft.NumericUpDownEx.VB
+</name>
+</assembly>
+<members>
+<member name="P:CoolSoft.UI.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CoolSoft.UI.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:CoolSoft.UI.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:CoolSoft.UI.NumericUpDownEx.#ctor">
+	<summary>
+ object creator
+ </summary>
+</member><member name="M:CoolSoft.UI.NumericUpDownEx.WndProc(System.Windows.Forms.Message@)">
+	<summary>
+ WndProc override to kill WN_MOUSEWHEEL message
+ </summary>
+</member><member name="F:CoolSoft.UI.NumericUpDownEx.InterceptMouseWheelMode.Always">
+	<summary>MouseWheel always works (defauld behavior)</summary>
+</member><member name="F:CoolSoft.UI.NumericUpDownEx.InterceptMouseWheelMode.WhenMouseOver">
+	<summary>MouseWheel works only when mouse is over the (focused) control</summary>
+</member><member name="F:CoolSoft.UI.NumericUpDownEx.InterceptMouseWheelMode.Never">
+	<summary>MouseWheel never works</summary>
+</member><member name="F:CoolSoft.UI.NumericUpDownEx.ShowUpDownButtonsMode.Always">
+	<summary>UpDownButtons are always visible (defauld behavior)</summary>
+</member><member name="F:CoolSoft.UI.NumericUpDownEx.ShowUpDownButtonsMode.WhenMouseOver">
+	<summary>UpDownButtons are visible only when mouse is over the control</summary>
+</member><member name="F:CoolSoft.UI.NumericUpDownEx.ShowUpDownButtonsMode.WhenFocus">
+	<summary>UpDownButtons are visible only when control has the focus</summary>
+</member><member name="F:CoolSoft.UI.NumericUpDownEx.ShowUpDownButtonsMode.WhenFocusOrMouseOver">
+	<summary>UpDownButtons are visible when control has focus or mouse is over the control</summary>
+</member><member name="F:CoolSoft.UI.NumericUpDownEx.ShowUpDownButtonsMode.Never">
+	<summary>UpDownButtons are never visible</summary>
+</member><member name="P:CoolSoft.UI.NumericUpDownEx.WrapValue">
+	<summary>
+ If set, incrementing value will cause it to restart from Minimum 
+ when Maximum is reached (and viceversa).
+ </summary>
+</member><member name="M:CoolSoft.UI.NumericUpDownEx.OnGotFocus(System.EventArgs)">
+	<summary>
+ Select all the text on focus enter
+ </summary>
+</member><member name="M:CoolSoft.UI.NumericUpDownEx.OnLostFocus(System.EventArgs)">
+	<summary>
+ Indicate that we have lost the focus
+ </summary>
+</member><member name="M:CoolSoft.UI.NumericUpDownEx.OnMouseUp(System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ MouseUp will kill the SelectAll made on GotFocus.
+ Will restore it, but only if user have not made a partial text selection.
+ </summary>
+</member><member name="M:CoolSoft.UI.NumericUpDownEx.UpdateUpDownButtonsVisibility">
+	<summary>
+ Show or hide the UpDownButtons, according to ShowUpDownButtons property value
+ </summary>
+</member><member name="M:CoolSoft.UI.NumericUpDownEx.OnTextBoxResize(System.Object,System.EventArgs)">
+	<summary>
+ Custom textbox size management
+ </summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,198 @@
+ Private Sub Loan_total_deposit()
+
+        Try '----- Loading Loan Total deposited amount and Loan Amount------
+            Dim lastinatalldateid As Boolean = False
+            Dim gen_loanid As Integer
+            Dim loan_type As String
+            Dim n As Integer = datatable.Rows.Count - 1
+            Dim Disburs_Date As Integer = 0
+            Dim gststatus, profitstatus As Integer
+
+            For a As Integer = 0 To n
+                If loan_report = 0 Then Form1.SetProgress_instanceSafe(a, n)
+                gen_loanid = datatable.Rows(a).Item("gen_id")
+                loan_type = datatable.Rows(a).Item("loan_type")
+
+                sql = "select vou_id,drparticular,crparticular,drcramount,cramount,date_id,groups,id,narration from daybook where (drparticular='" & _
+                    gen_loanid & "' or crparticular='" & gen_loanid & "') order by id"
+
+                If Conalbank.State = ConnectionState.Closed Then Conalbank.Open()
+                da = New MySql.Data.MySqlClient.MySqlDataAdapter(sql, Conalbank)
+
+                da.Fill(Dtloantemp)
+                Conalbank.Close()
+
+                If loan_report = 1 Then
+                    Loans_report.last_month_deposit(datatable.Rows(a).Item("account_number"))
+                    actype = loan_type
+                    Dim o As Integer = dsalbank.Tables("loan_date_Inst").Rows.Count - 1
+                    For b As Integer = 0 To o
+                        Dim dt As Date = Date.Parse(dsalbank.Tables("loan_date_Inst").Rows(b).Item("cur_date"))
+                        Disburs_Date = dsalbank.Tables("loan_date_Inst").Rows(b).Item("loan_dateid")
+                        datatable.Rows(a).Item("Disburse_date") = dt.ToShortDateString()
+                        datatable.Rows(a).Item("Month_request") = dsalbank.Tables("loan_date_Inst").Rows(b).Item("loan_no_of_inst")
+                    Next
+                End If
+
+                With datatable.Rows(a)
+                    If .Item("Loan_amount") Is DBNull.Value Then .Item("Loan_amount") = 0
+                    If .Item("Returned_amount") Is DBNull.Value Then .Item("Returned_amount") = 0
+                    .Item("Balance_Amount") = 0
+                    .Item("Amount") = 0
+                    If loan_report = 1 Then .Item("Last_month_deposit") = 0
+                    .Item("Receipt_No") = a + 1
+                    Dim loantype As String = .Item("loan_type")
+                    gststatus = 0
+                    profitstatus = 0
+                    For b As Integer = 1 To Dtloantemp.Rows.Count - 1
+                        If Dtloantemp.Rows(b).Item("narration").ToString.Contains("GST Deducation") = True Then gststatus = 1
+                        If Dtloantemp.Rows(b).Item("narration").ToString.Contains("Borrowing Cost Deducation") = True Then profitstatus = 1
+                        If .Item("Loan_amount") = 0 Or b > 1 Then
+                            If Dtloantemp.Rows(b).Item("drparticular") = .Item("gen_id") And Dtloantemp.Rows(b).Item("groups") = loantype And _
+                                Dtloantemp.Rows(b).Item("narration").ToString.Contains("GST Deducation of Loan") = False And _
+                                Dtloantemp.Rows(b).Item("narration").ToString.Contains("Borrowing Cost Deducation of Amount") = False And _
+                                Dtloantemp.Rows(b).Item("narration").ToString.Contains("GST updated") = False And _
+                                Dtloantemp.Rows(b).Item("narration").ToString.Contains("Borrowing Cost Updated") = False And _
+                                Dtloantemp.Rows(b).Item("narration").ToString.Contains("Excess") = False Then
+                                .Item("Loan_amount") += Dtloantemp.Rows(b).Item("drcramount")
+                            End If
+                        End If
+
+                        If Dtloantemp.Rows(b).Item("crparticular") = .Item("gen_id") And Dtloantemp.Rows(b).Item("groups") = "C" & loantype Then
+                            .Item("Returned_amount") += Dtloantemp.Rows(b).Item("cramount")
+                        End If
+                        If Dtloantemp.Rows(b).Item("crparticular") = .Item("gen_id") And Dtloantemp.Rows(b).Item("groups") = "RI" & loantype Then
+                            .Item("Returned_amount") += Dtloantemp.Rows(b).Item("cramount")
+                        End If
+
+                        If Dtloantemp.Rows(b).Item("crparticular") = .Item("gen_id") And Dtloantemp.Rows(b).Item("groups") = "IT" & loantype And _
+                            profitstatus = 1 And gststatus = 1 And Dtloantemp.Rows(b).Item("narration").ToString.Contains("Excess profit") = False And _
+                            Dtloantemp.Rows(b).Item("narration").ToString.Contains("Excess GST") = False And _
+                            Dtloantemp.Rows(b).Item("narration").ToString.Contains("Excess Borrowing ") = False And _
+                            Dtloantemp.Rows(b).Item("narration").ToString.Contains("Excess Amt") = False And _
+                            Dtloantemp.Rows(b).Item("narration").ToString.Contains("Income From Business Loan") = False Then
+                            .Item("Returned_amount") += Dtloantemp.Rows(b).Item("cramount")
+                        ElseIf Dtloantemp.Rows(b).Item("crparticular") = .Item("gen_id") And Dtloantemp.Rows(b).Item("groups") = "IT" & loantype And _
+                            profitstatus = 1 And gststatus = 0 And Dtloantemp.Rows(b).Item("narration").ToString.Contains("Excess profit") = False And _
+                            Dtloantemp.Rows(b).Item("narration").ToString.Contains("Excess Borrowing ") = False And _
+                            Dtloantemp.Rows(b).Item("narration").ToString.Contains("Excess Amt") = False And _
+                            Dtloantemp.Rows(b).Item("narration").ToString.Contains("Income From Business Loan") = False Then
+                            .Item("Returned_amount") += Dtloantemp.Rows(b).Item("cramount")
+                        ElseIf Dtloantemp.Rows(b).Item("crparticular") = .Item("gen_id") And Dtloantemp.Rows(b).Item("groups") = "IT" & loantype And _
+                            profitstatus = 0 And gststatus = 0 Then
+                            .Item("Returned_amount") += Dtloantemp.Rows(b).Item("cramount")
+                        End If
+
+                        If Dtloantemp.Rows(b).Item("crparticular") = .Item("gen_id") And Dtloantemp.Rows(b).Item("groups") = "BCE" & loantype Then
+                            .Item("Returned_amount") += Dtloantemp.Rows(b).Item("cramount")
+                        End If
+                        If Dtloantemp.Rows(b).Item("crparticular") = .Item("gen_id") And Dtloantemp.Rows(b).Item("groups") = "WC" & loantype Then
+                            .Item("Returned_amount") += Dtloantemp.Rows(b).Item("cramount")
+                        End If
+                        If Dtloantemp.Rows(b).Item("drparticular") = .Item("gen_id") And Dtloantemp.Rows(b).Item("groups") = "ITEX" & loantype Then
+                            .Item("Loan_amount") += Dtloantemp.Rows(b).Item("drcramount")
+                        End If
+                        If Dtloantemp.Rows(b).Item("drparticular") = .Item("gen_id") And Dtloantemp.Rows(b).Item("groups") = "OWC" & loantype Then
+                            .Item("Loan_amount") += Dtloantemp.Rows(b).Item("drcramount")
+                        End If
+
+                        If Dtloantemp.Rows(b).Item("date_id") >= last_month_day1 _
+                            And Dtloantemp.Rows(b).Item("date_id") <= last_month_lastday _
+                            And Dtloantemp.Rows(b).Item("crparticular") = .Item("gen_id") _
+                            And (Dtloantemp.Rows(b).Item("groups") = "C" & loantype _
+                            Or Dtloantemp.Rows(b).Item("groups") = "RI" & loantype _
+                            Or Dtloantemp.Rows(b).Item("groups") = "IT" & loantype _
+                            Or Dtloantemp.Rows(b).Item("groups") = "BCE" & loantype _
+                            Or Dtloantemp.Rows(b).Item("groups") = "ITEX" & loantype _
+                            Or Dtloantemp.Rows(b).Item("groups") = "WC" & loantype _
+                            Or Dtloantemp.Rows(b).Item("groups") = "OWC" & loantype) _
+                            And loan_report = 1 Then
+                            .Item("Last_month_deposit") += Dtloantemp.Rows(b).Item("cramount")
+                        End If
+
+                        If (Dtloantemp.Rows(b).Item("crparticular") = .Item("gen_id") Or Dtloantemp.Rows(b).Item("drparticular") = .Item("gen_id")) And _
+                            b = Dtloantemp.Rows.Count - 1 And Dtloantemp.Rows(b).Item("date_id") < monthday1id Then
+                            lastinatalldateid = True
+                        End If
+
+                    Next
+
+                    Dim roundamount As Integer
+                    roundamount = Math.Round(CInt(.Item("Loan_amount")))
+                    .Item("Loan_amount") = roundamount
+
+                    If .Item("Loan_amount") = .Item("Returned_amount") Then
+
+                    End If
+
+                    If (.Item("Loan_amount") = .Item("Returned_amount") _
+                        Or (.Item("Loan_amount") + 1 = .Item("Returned_amount")) _
+                        Or (.Item("Loan_amount") + 2 = .Item("Returned_amount"))) _
+                        And .Item("Loan_amount") IsNot DBNull.Value _
+                        And .Item("Returned_amount") IsNot DBNull.Value And lastinatalldateid = True Then
+
+                        sql = "INSERT INTO Coll_Ac_order (Coll_id, New_serial_no, Ac_holder_name, Account_no) VALUES('0', 'C', '" & _
+                            loantype & "', '" & .Item("account_number") & "')"
+                        If Conaccess.State = ConnectionState.Closed Then Conaccess.Open()
+                        daaccess.InsertCommand = Conaccess.CreateCommand
+                        daaccess.InsertCommand.CommandText = sql
+                        daaccess.InsertCommand.ExecuteNonQuery()
+                        Conaccess.Close()
+
+                        .Delete()
+                        datatable.AcceptChanges()
+                        n -= 1
+                        a -= 1
+                        lastinatalldateid = False
+
+                        'new code
+                    ElseIf .Item("Loan_amount") <> .Item("Returned_amount") And .Item("Loan_amount") IsNot DBNull.Value _
+                        And .Item("Returned_amount") IsNot DBNull.Value And lastinatalldateid = False Then
+                        If dsalbank.Tables("Cleared_loan").Rows.Count > 0 Then
+                            For k As Integer = 0 To dsalbank.Tables("Cleared_loan").Rows.Count - 1
+                                If .Item("account_number") = dsalbank.Tables("Cleared_loan").Rows(k).Item("Account_no") Then
+                                    sql = "DELETE FROM Coll_Ac_order WHERE Account_no=" & .Item("account_number")
+                                    If Conaccess.State = ConnectionState.Closed Then Conaccess.Open()
+                                    daaccess.DeleteCommand = Conaccess.CreateCommand
+                                    daaccess.DeleteCommand.CommandText = sql
+                                    daaccess.DeleteCommand.ExecuteNonQuery()
+                                    Conaccess.Close()
+                                    'new code
+                                End If
+                            Next
+                        End If
+                    End If
+
+                End With
+
+                lastinatalldateid = False
+                Dtloantemp.Reset()
+                If a = n Then Exit For
+
+            Next
+
+            Dim dataView As New DataView(datatable)
+
+            dataView.Sort = "account_number ASC"
+
+            datatable = dataView.ToTable
+
+            If loan_report = 1 Then Exit Sub
+            Form1.SetProgress_instanceSafe(0, 1000)
+
+            '----- Adding Total deposit till last month ------
+            Form1.BackgroundWorker2.WorkerReportsProgress = True
+            Form1.BackgroundWorker2.WorkerSupportsCancellation = True
+            Form1.BackgroundWorker2.RunWorkerAsync()
+
+            If Form1.RadioButton3.Checked = True Then
+                Form1.Multisheet()
+            ElseIf Form1.RadioButton1.Checked = True Then
+                Form1.OneSheet_Without_Total()
+            End If
+
+        Catch ex As Exception
+            Error_handle("Loan Total Deposit or Loan Amount Load Error", ex)
+        End Try
+
+    End Sub

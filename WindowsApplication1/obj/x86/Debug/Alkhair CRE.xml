@@ -1,0 +1,514 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AlkhairCRE
+</name>
+</assembly>
+<members>
+<member name="F:Alkhair_CRE.Shell32.SHFILEINFO.MAX_PATH">
+	<summary>Maximal Length of unmanaged Windows-Path-strings</summary>
+</member><member name="F:Alkhair_CRE.Shell32.SHFILEINFO.MAX_TYPE">
+	<summary>Maximal Length of unmanaged Typename</summary>
+</member><member name="M:Alkhair_CRE.Shell32.IShellFolder.ParseDisplayName(System.IntPtr,System.IntPtr,System.String,System.UInt32,System.IntPtr@,System.UInt32)">
+	<summary>
+ Translates a file object's or folder's display name into an item identifier list.
+ Return value: error code, if any
+ </summary>
+	<param name="hwnd">Optional window handle</param>
+	<param name="pbc">Optional bind context that controls the parsing operation. This parameter is normally set to NULL. </param>
+	<param name="pszDisplayName">Null-terminated UNICODE string with the display name</param>
+	<param name="pchEaten">Pointer to a ULONG value that receives the number of characters of the display name that was parsed.</param>
+	<param name="ppidl"> Pointer to an ITEMIDLIST pointer that receives the item identifier list for the object.</param>
+	<param name="pdwAttributes">Optional parameter that can be used to query for file attributes.this can be values from the SFGAO enum</param>
+</member><member name="M:Alkhair_CRE.Shell32.IShellFolder.EnumObjects(System.IntPtr,Alkhair_CRE.Shell32.ESHCONTF,System.IntPtr@)">
+	<summary>
+Allows a client to determine the contents of a folder by creating an item identifier enumeration object and returning its IEnumIDList interface.
+Return value: error code, if any
+ </summary>
+	<param name="hwnd">If user input is required to perform the enumeration, this window handle should be used by the enumeration object as the parent window to take user input.</param>
+	<param name="grfFlags">Flags indicating which items to include in the  enumeration. For a list of possible values, see the SHCONTF enum. </param>
+	<param name="ppenumIDList">Address that receives a pointer to the IEnumIDList interface of the enumeration object created by this method. </param>
+</member><member name="M:Alkhair_CRE.Shell32.IShellFolder.BindToObject(System.IntPtr,System.IntPtr,System.Guid@,System.IntPtr@)">
+	<summary>
+Retrieves an IShellFolder object for a subfolder.
+ Return value: error code, if any
+ </summary>
+	<param name="pidl">Address of an ITEMIDLIST structure (PIDL) that identifies the subfolder.</param>
+	<param name="pbc">Optional address of an IBindCtx interface on a bind context object to be used during this operation.</param>
+	<param name="riid">Identifier of the interface to return. </param>
+	<param name="ppv">Address that receives the interface pointer.</param>
+</member><member name="M:Alkhair_CRE.Shell32.IShellFolder.BindToStorage(System.IntPtr,System.IntPtr,System.Guid@,System.IntPtr@)">
+	<summary>
+ Requests a pointer to an object's storage interface.
+ Return value: error code, if any
+ </summary>
+	<param name="pidl">Address of an ITEMIDLIST structure that identifies the subfolder relative to its parent folder. </param>
+	<param name="pbc">Optional address of an IBindCtx interface on a bind context object to be  used during this operation.</param>
+	<param name="riid">Interface identifier (IID) of the requested storage interface.</param>
+	<param name="ppv"> Address that receives the interface pointer specified by riid.</param>
+</member><member name="M:Alkhair_CRE.Shell32.IShellFolder.CreateViewObject(System.IntPtr,System.Guid@,System.IntPtr@)">
+	<summary>
+ Requests an object that can be used to obtain information from or .
+ with a folder object.
+ Return value: error code, if any
+ </summary>
+	<param name="hwndOwner">Handle to the owner window.</param>
+	<param name="riid">Identifier of the requested interface.</param>
+	<param name="ppv">Address of a pointer to the requested interface. </param>
+</member><member name="M:Alkhair_CRE.Shell32.IShellFolder.GetAttributesOf(System.UInt32,System.IntPtr[],Alkhair_CRE.Shell32.ESFGAO@)">
+	<summary>
+ Retrieves the attributes of one or more file objects or subfolders.
+ Return value: error code, if any
+ </summary>
+	<param name="cidl">Number of file objects from which to retrieve attributes. </param>
+	<param name="apidl">Address of an array of pointers to ITEMIDLIST structures, each of which  uniquely identifies a file object relative to the parent folder.</param>
+	<param name="rgfInOut">Address of a single ULONG value that, on entry contains the attributes that the caller is
+ requesting. On exit, this value contains the requested attributes that are common to all of the specified objects. this value can be from the SFGAO enum
+ </param>
+</member><member name="M:Alkhair_CRE.Shell32.IShellFolder.GetUIObjectOf(System.IntPtr,System.UInt32,System.IntPtr[],System.Guid@,System.UInt32,System.IntPtr@)">
+	<summary>
+ Retrieves an OLE interface that can be used to carry out actions on the
+ specified file objects or folders. Return value: error code, if any
+ </summary>
+	<param name="hwndOwner">Handle to the owner window that the client should specify if it displays a dialog box or message box.</param>
+	<param name="cidl">Number of file objects or subfolders specified in the apidl parameter. </param>
+	<param name="apidl">Address of an array of pointers to ITEMIDLIST  structures, each of which  uniquely identifies a file object or subfolder relative to the parent folder.</param>
+	<param name="riid">Identifier of the COM interface object to return.</param>
+	<param name="rgfReserved"> Reserved. </param>
+	<param name="ppv">Pointer to the requested interface.</param>
+</member><member name="M:Alkhair_CRE.Shell32.IShellFolder.GetDisplayNameOf(System.IntPtr,Alkhair_CRE.Shell32.ESHGDN,Alkhair_CRE.Shell32.STRRET@)">
+	<summary>
+ Retrieves the display name for the specified file object or subfolder.
+ Return value: error code, if any
+ </summary>
+	<param name="pidl">Address of an ITEMIDLIST structure (PIDL)  that uniquely identifies the file  object or subfolder relative to the parent  folder. </param>
+	<param name="uFlags">Flags used to request the type of display name to return. For a list of possible values. </param>
+	<param name="pName"> Address of a STRRET structure in which to return the display name.</param>
+</member><member name="M:Alkhair_CRE.Shell32.IShellFolder.SetNameOf(System.IntPtr,System.IntPtr,System.String,Alkhair_CRE.Shell32.ESHCONTF,System.IntPtr@)">
+	<summary>
+ Sets the display name of a file object or subfolder, changing the item
+ identifier in the process.
+ Return value: error code, if any
+ </summary>
+	<param name="hwnd"> Handle to the owner window of any dialog or message boxes that the client displays.</param>
+	<param name="pidl"> Pointer to an ITEMIDLIST structure that uniquely identifies the file object or subfolder relative to the parent folder. </param>
+	<param name="pszName"> Pointer to a null-terminated string that specifies the new display name.</param>
+	<param name="uFlags">Flags indicating the type of name specified by  the lpszName parameter. For a list of possible values, see the description of the SHGNO enum.</param>
+	<param name="ppidlOut"></param>
+</member><member name="T:Alkhair_CRE.Shell32.IShellFolder">
+	<summary>
+  managed equivalent of IShellFolder interface
+  Pinvoke.net / Mod by Arik Poznanski - pooya parsa
+  Msdn:      http://msdn.microsoft.com/en-us/library/windows/desktop/bb775075(v=vs.85).aspx
+  Pinvoke:   http://pinvoke.net/default.aspx/Interfaces/IShellFolder.html
+ </summary>
+</member><member name="M:Alkhair_CRE.Shell32.IEnumIDList.Next(System.UInt32,System.IntPtr[],System.Int32@)">
+	<summary>
+ Retrieves the specified number of item identifiers in the
+ enumeration sequence and advances the current position by
+ the number of items retrieved.
+ </summary>
+	<param name="celt">Number of elements in the array pointed to by the rgelt parameter.</param>
+	<param name="rgelt">
+ Address of an array of ITEMIDLIST pointers that receives the item identifiers. The implementation must allocate these item identifiers
+ using the Shell's allocator (retrieved by the SHGetMalloc function). The calling application is responsible for freeing the item
+ identifiers using the Shell's allocator.
+ </param>
+	<param name="pceltFetched">
+ Address of a value that receives a count of the item identifiers actually returned in rgelt. The count can be smaller than the value
+ specified in the celt parameter. This parameter can be NULL only if celt is one.
+ </param>
+</member><member name="M:Alkhair_CRE.Shell32.IEnumIDList.Skip(System.UInt32)">
+	<summary>
+ Skips over the specified number of elements in the enumeration sequence.
+ </summary>
+	<param name="celt">Number of item identifiers to skip.</param>
+</member><member name="M:Alkhair_CRE.Shell32.IEnumIDList.Reset">
+	<summary>
+ Returns to the beginning of the enumeration sequence.
+ </summary>
+</member><member name="M:Alkhair_CRE.Shell32.IEnumIDList.Clone(Alkhair_CRE.Shell32.IEnumIDList@)">
+	<summary>
+ Creates a new item enumeration object with the same contents and state as the current one.
+ </summary>
+	<param name="ppenum">
+ Address of a pointer to the new enumeration object. The calling application must
+ eventually free the new object by calling its Release member function.
+ </param>
+</member><member name="F:Alkhair_CRE.Shell32.SHGFI.Icon">
+	<summary>get icon</summary>
+</member><member name="F:Alkhair_CRE.Shell32.SHGFI.DisplayName">
+	<summary>get display name</summary>
+</member><member name="F:Alkhair_CRE.Shell32.SHGFI.TypeName">
+	<summary>get type name</summary>
+</member><member name="F:Alkhair_CRE.Shell32.SHGFI.Attributes">
+	<summary>get attributes</summary>
+</member><member name="F:Alkhair_CRE.Shell32.SHGFI.IconLocation">
+	<summary>get icon location</summary>
+</member><member name="F:Alkhair_CRE.Shell32.SHGFI.ExeType">
+	<summary>return exe type</summary>
+</member><member name="F:Alkhair_CRE.Shell32.SHGFI.SysIconIndex">
+	<summary>get system icon index</summary>
+</member><member name="F:Alkhair_CRE.Shell32.SHGFI.LinkOverlay">
+	<summary>put a link overlay on icon</summary>
+</member><member name="F:Alkhair_CRE.Shell32.SHGFI.Selected">
+	<summary>show icon in selected state</summary>
+</member><member name="F:Alkhair_CRE.Shell32.SHGFI.Attr_Specified">
+	<summary>get only specified attributes</summary>
+</member><member name="F:Alkhair_CRE.Shell32.SHGFI.LargeIcon">
+	<summary>get large icon</summary>
+</member><member name="F:Alkhair_CRE.Shell32.SHGFI.SmallIcon">
+	<summary>get small icon</summary>
+</member><member name="F:Alkhair_CRE.Shell32.SHGFI.OpenIcon">
+	<summary>get open icon</summary>
+</member><member name="F:Alkhair_CRE.Shell32.SHGFI.ShellIconSize">
+	<summary>get shell size icon</summary>
+</member><member name="F:Alkhair_CRE.Shell32.SHGFI.PIDL">
+	<summary>pszPath is a pidl</summary>
+</member><member name="F:Alkhair_CRE.Shell32.SHGFI.UseFileAttributes">
+	<summary>use passed dwFileAttribute</summary>
+</member><member name="F:Alkhair_CRE.Shell32.SHGFI.AddOverlays">
+	<summary>apply the appropriate overlays</summary>
+</member><member name="F:Alkhair_CRE.Shell32.SHGFI.OverlayIndex">
+	<summary>Get the index of the overlay in the upper 8 bits of the iIcon</summary>
+</member><member name="F:Alkhair_CRE.ImageComboBox._ShowImages">
+	<summary>
+ Boolean value indicating whether the specified image for each ImageComboBoxItem of the ImageComboBox is displayed beside the item text.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Alkhair_CRE.ImageComboBox._Items">
+	<summary>
+ Collection that stores all the ImageComboBoxItems for the ImageComboBox.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Alkhair_CRE.ImageComboBox._ImageAlignment">
+	<summary>
+ Enumeration value corresponding to the selected alignment to align the image of each ImageComboList item in the ImageComboBox.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Alkhair_CRE.ImageComboBox.ImageAlignment">
+	<summary>
+ Represents an enumeration of valid text alignments for items in the control.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Alkhair_CRE.ImageComboBox.#ctor">
+	<summary>
+ Creates an instance of the ImageComboBox.
+ </summary>
+</member><member name="P:Alkhair_CRE.ImageComboBox.Items">
+	<summary>
+ Returns the items in the ImageComboBoxItemCollection to be used in the ImageComboBox.
+ </summary>
+</member><member name="P:Alkhair_CRE.ImageComboBox.baseItems">
+	<summary>
+ The original items from the ImageComboBox that will never been seen.
+ </summary>
+</member><member name="P:Alkhair_CRE.ImageComboBox.SelectedItem">
+	<summary>
+ Returns the currently selected item from the ImageComboBox.
+ </summary>
+</member><member name="P:Alkhair_CRE.ImageComboBox.DrawMode">
+	<summary>
+ Sets the DrawMode of the ImageComboBox.
+ </summary>
+	<value>DrawMode.OwnerDrawFixed</value>
+	<returns>DrawMode.OwnerDrawFixed</returns>
+	<remarks>Hidden property. Needs to stay 'DrawMode.OwnerDrawFixed' to properly draw items.</remarks>
+</member><member name="P:Alkhair_CRE.ImageComboBox.DropDownStyle">
+	<summary>
+ Sets the ComboBoxStyle of the ImageComboBox
+ </summary>
+	<value>ComboBoxStyle.DropDownList</value>
+	<returns>ComboBoxStyle.DropDownList</returns>
+	<remarks>Hidden Property. Needs to stay 'ComboBoxStyle.DropDownList' so that the user can't enter text into a ComboBox that has this property set to 'ComboBoxStyle.DropDown'.</remarks>
+</member><member name="P:Alkhair_CRE.ImageComboBox.ShowImages">
+	<summary>
+ Indicates whether the specified image for each ImageComboBoxItem of the ImageComboBox is displayed beside the item text.
+ </summary>
+	<value>True/False</value>
+	<returns>True or False</returns>
+</member><member name="P:Alkhair_CRE.ImageComboBox.ImageAlign">
+	<summary>
+ Gets or sets a value indicating the alignment of the image for each item in the ImageComboBox.
+ </summary>
+	<value>Left/Right</value>
+	<returns>Enumeration value corresponding to the selected alignment.</returns>
+</member><member name="M:Alkhair_CRE.ImageComboBox.OnDrawItem(System.Windows.Forms.DrawItemEventArgs)">
+	<summary>
+ Draws each ImageComboBoxItem in ImageComboBoxItemCollection in the ImageComboBox.
+ </summary>
+</member><member name="F:Alkhair_CRE.ImageComboBox.ImageComboBoxItemCollection._comboBox">
+	<summary>
+ Keeps a reference to the ImageComboBox so we can update its baseItems list.
+ </summary>
+</member><member name="M:Alkhair_CRE.ImageComboBox.ImageComboBoxItemCollection.#ctor(Alkhair_CRE.ImageComboBox)">
+	<summary>
+ Creates an instance of the ImageComboBoxCollection.
+ </summary>
+</member><member name="M:Alkhair_CRE.ImageComboBox.ImageComboBoxItemCollection.Add">
+	<summary>
+ Adds an ImageComboBoxItem to the ImageComboBoxCollection.
+ </summary>
+</member><member name="M:Alkhair_CRE.ImageComboBox.ImageComboBoxItemCollection.Add(System.String)">
+	<summary>
+ Adds an ImageComboBoxItem to the ImageComboBoxCollection.
+ </summary>
+	<param name="text">Text to be displayed in the ImageComboBox.</param>
+</member><member name="M:Alkhair_CRE.ImageComboBox.ImageComboBoxItemCollection.Add(System.String,System.Drawing.Image)">
+	<summary>
+ Adds an ImageComboBoxItem to the ImageComboBoxCollection.
+ </summary>
+	<param name="text">Text to be displayed in the ImageComboBox for the ImageComboBoxItem.</param>
+	<param name="image">Image to be displayed in the ImageComboBox for the ImageComboBoxItem.</param>
+</member><member name="M:Alkhair_CRE.ImageComboBox.ImageComboBoxItemCollection.ClearItems">
+	<summary>
+ Clears all the ImageComboBoxItems from both the ImageComboBoxCollection and the baseItems list of the ImageComboBox.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Alkhair_CRE.ImageComboBox.ImageComboBoxItemCollection.InsertItem(System.Int32,Alkhair_CRE.ImageComboBoxItem)">
+	<summary>
+ Inserts an ImageComboBoxItem at the specified index into the ImageComboBoxCollection and the baseItems list of the ImageComboBox.
+ </summary>
+	<param name="index">Index at which to insert the ImageComboBoxItem.</param>
+	<param name="item">The ImageComboBoxItem to be inserted.</param>
+	<remarks></remarks>
+</member><member name="M:Alkhair_CRE.ImageComboBox.ImageComboBoxItemCollection.RemoveItem(System.Int32)">
+	<summary>
+ Removes an ImageComboBoxItem at the specified index from the ImageComboBoxCollection and the baseItems list of the ImageComboBox.
+ </summary>
+	<param name="index">Index of the ImageComboBoxItem to be removed.</param>
+	<remarks></remarks>
+</member><member name="M:Alkhair_CRE.ImageComboBox.ImageComboBoxItemCollection.SetItem(System.Int32,Alkhair_CRE.ImageComboBoxItem)">
+	<summary>
+ Replaces an ImageComboBoxItem at the specified index with another ImageComboBoxItem in the ImageComboBoxCollection and the baseItems list of the ImageComboBox.
+ </summary>
+	<param name="index"></param>
+	<param name="item"></param>
+	<remarks></remarks>
+</member><member name="M:Alkhair_CRE.ImageComboBox.ImageComboBoxItemCollection.AddRange(System.Collections.Generic.IEnumerable{Alkhair_CRE.ImageComboBoxItem})">
+	<summary>
+ Adds two or more ImageComboBoxItems to the ImageComboBoxCollection.
+ </summary>
+	<param name="items">The list of ImageComboBoxItems to be inserted.</param>
+	<remarks></remarks>
+</member><member name="T:Alkhair_CRE.ImageComboBox.ImageComboBoxItemCollection">
+	<summary>
+ A collection of ImageComboBoxItems.
+ </summary>
+</member><member name="F:Alkhair_CRE.ImageComboBoxItem._text">
+	<summary>
+ String value that holds the text to be displayed for the ImageComboBoxItem.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Alkhair_CRE.ImageComboBoxItem._image">
+	<summary>
+ Image to be displayed for the ImageComboBoxItem.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Alkhair_CRE.ImageComboBoxItem._tag">
+	<summary>
+ Object that holds any additional data you may need for the ImageComboBoxItem. 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Alkhair_CRE.ImageComboBoxItem.#ctor">
+	<summary>
+ Creates an instance of the ImageComboBoxItem.
+ </summary>
+</member><member name="M:Alkhair_CRE.ImageComboBoxItem.#ctor(System.String)">
+	<summary>
+ Creates an instance of the ImageComboBoxItem.
+ </summary>
+	<param name="text">String value to be displayed for the ImageComboBoxItem.</param>
+	<remarks></remarks>
+</member><member name="M:Alkhair_CRE.ImageComboBoxItem.#ctor(System.String,System.Drawing.Image)">
+	<summary>
+ Creates an instance of the ImageComboBoxItem.
+ </summary>
+	<param name="text">String value to be displayed for the ImageComboBoxItem.</param>
+	<param name="image">Image to be displayed for the ImageComboBoxItem.</param>
+	<remarks></remarks>
+</member><member name="P:Alkhair_CRE.ImageComboBoxItem.Text">
+	<summary>
+ String value that holds the text to be displayed for the ImageComboBoxItem.
+ </summary>
+	<returns>String value for the ImageComboBoxItem.</returns>
+</member><member name="P:Alkhair_CRE.ImageComboBoxItem.Image">
+	<summary>
+ Image to be displayed for the ImageComboBoxItem.
+ </summary>
+	<returns>Image object to be displayed for the ImageComboBoxItem.</returns>
+</member><member name="P:Alkhair_CRE.ImageComboBoxItem.Tag">
+	<summary>
+ Object that holds any additional data you may need for the ImageComboBoxItem. 
+ </summary>
+	<returns>Object that holds any additional data you may need for the ImageComboBoxItem. </returns>
+</member><member name="T:Alkhair_CRE.ImageComboBoxItem">
+	<summary>
+ An item that is added to the ImageComboBox
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.a">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.ca_cert">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.ca_key">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.client_cert">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.client_key">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.client_req">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.database_process">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.index">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.land_duplex">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.lanscape">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.Mirrored">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.Moderate">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.Narrow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.Normal">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.off">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.off1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.off2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.off3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.on1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.on2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.One_side">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.Port_duplex">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.portrait">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.poster_06_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.printallpages">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.printcurrentpage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.printcustompage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.printer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.Reload">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.Reload1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.server_cert">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.server_key">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.server_req">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.Setting_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.Simplex">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.Update">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Alkhair_CRE.My.Resources.Resources.Wide">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Alkhair_CRE.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

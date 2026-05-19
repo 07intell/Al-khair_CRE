@@ -1,0 +1,9 @@
+﻿Database Login Error
+System.ArgumentException: Column 'usera_name' does not belong to table login.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at Alkhair_CRE.login.Button1_Click(Object sender, EventArgs e) in C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE\WindowsApplication1\login.vb:line 20Database Login Error
+System.ArgumentException: Column 'usera_name' does not belong to table login.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at Alkhair_CRE.login.Button1_Click(Object sender, EventArgs e) in C:\Users\A Rahman\Documents\Visual Studio 2010\Alkhair CRE\WindowsApplication1\login.vb:line 20

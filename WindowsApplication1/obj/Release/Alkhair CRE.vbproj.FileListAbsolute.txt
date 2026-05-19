@@ -1,0 +1,98 @@
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Alkhair CRE.exe.config
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Alkhair CRE.exe.manifest
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Alkhair CRE.application
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Alkhair CRE.exe
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Alkhair CRE.pdb
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Alkhair CRE.xml
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\CoolSoft.NumericUpDownEx.VB.dll
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\MySql.Data.dll
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\CoolSoft.NumericUpDownEx.VB.pdb
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Interop.WMICNTLLib.dll
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Interop.WMICNTLLib.dll
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.vbproj.ResolveComReference.cache
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Accountdetails.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Changerecieptdate.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.collectionsheet.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Config.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Find.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Form1.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Form2.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Form3.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Loans_report.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.login.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Resources.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Print_Preview.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.viewrectbydate.resources
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.vbproj.GenerateResource.Cache
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.exe.manifest
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.application
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.exe
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.xml
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.pdb
+C:\Users\HP PC\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.vbprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Alkhair CRE.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Alkhair CRE.exe.manifest
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Alkhair CRE.application
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Alkhair CRE.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Alkhair CRE.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Alkhair CRE.xml
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\CoolSoft.NumericUpDownEx.VB.dll
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\MySql.Data.dll
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\CoolSoft.NumericUpDownEx.VB.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Interop.WMICNTLLib.dll
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.vbprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Interop.WMICNTLLib.dll
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.vbproj.ResolveComReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Accountdetails.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Changerecieptdate.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.collectionsheet.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Config.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Find.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Form2.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Form3.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Form6.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Loans_report.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.login.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Print_Preview.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.viewrectbydate.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.vbproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.exe.manifest
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.application
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.xml
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.pdb
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Alkhair CRE.exe.config
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Alkhair CRE.exe.manifest
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Alkhair CRE.application
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Alkhair CRE.exe
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Alkhair CRE.pdb
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Alkhair CRE.xml
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\CoolSoft.NumericUpDownEx.VB.dll
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\MySql.Data.dll
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\CoolSoft.NumericUpDownEx.VB.pdb
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\bin\Release\Interop.WMICNTLLib.dll
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Interop.WMICNTLLib.dll
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.vbproj.ResolveComReference.cache
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Accountdetails.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Changerecieptdate.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.collectionsheet.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Config.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Find.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Form1.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Form2.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Form3.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Form6.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Loans_report.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.login.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Resources.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.Print_Preview.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair_CRE.viewrectbydate.resources
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.vbproj.GenerateResource.Cache
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.exe.manifest
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.application
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.exe
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.xml
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.pdb
+C:\Users\Aman\Documents\Visual Studio 2010\Projects\Alkhair_CRE_old_design\WindowsApplication1\obj\Release\Alkhair CRE.vbprojResolveAssemblyReference.cache
